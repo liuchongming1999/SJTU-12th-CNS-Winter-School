@@ -1,7 +1,13 @@
 # Tutorial I: Brain Inspired Computation
 ---
-1. Brain Inspired Computation - Based Part
-1. Brain Inspired Computation - Advanced Part
+1. **Brain Inspired Computation - Based Part**
+    1. MP model
+    2. Hebbian leaning
+    3. Hopfield model
+    4. Building up a simple artifitial neural network
+1. **Brain Inspired Computation - Advanced Part**
+    1. Convolution and LeNet-5
+    2. AlexNet and visual system
 
 ---
 
