@@ -27,7 +27,7 @@ The winter school is sponsored by the Chinese Neuroscience Society (Committee on
 |Topics|Date(GMT+8)|Time(GMT+8)|
 |--|--|--|
 |Tutorial 1: Brain-inspired computation| Jan. 10, 2023 | 9:00-11:00 |
-|Tutorial 2: Neuronal simulation| Jan. 13, 2023 | 14:00-16:00 |
+|Tutorial 2: Neuron software tutorial| Jan. 13, 2023 | 14:00-16:00 |
 
 ## Venue
 
