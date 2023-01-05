@@ -75,3 +75,5 @@ Online——VooV
 
 ---
 ## Poster
+
+<img src="./imgs/The_12th_Computational_Neuroscience_Winter_School_Poster.pdf" alt="poster_img" style="zoom:30%;" />
