@@ -20,4 +20,4 @@ conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
 # install pytorch for constructing artificial neural networks
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia -y
 ```
-If you failed to install pytorch, then try to follow the constrictions from [pytorch](https://pytorch.org/get-started/locally/).
+If you failed to install pytorch, then try to follow the construction from [pytorch](https://pytorch.org/get-started/locally/).
