@@ -16,7 +16,7 @@
 
 ```bash
 # new python environment for pytorch
-conda create -n pytorch_for_winter_school python=3.8
+conda create -n pytorch_for_winter_school python=3.9
 # install basic packages for scientific computing
 conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
 # install pytorch for constructing artificial neural networks
