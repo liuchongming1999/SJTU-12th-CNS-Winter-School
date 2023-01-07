@@ -17,14 +17,14 @@
 ```bash
 # new python environment for pytorch
 conda create -n pytorch_for_winter_school python=3.9
+# activate the new environment
+conda avtivate pytorch_for_winter_school
 # install basic packages for scientific computing
 conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
 # install pytorch for constructing artificial neural networks
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia -y
 # install PIL for dealing with images (or using pip)
 conda install PIL
-# activate the new environment
-conda avtivate pytorch_for_winter_school
 # open a local jupyter notebook
 jupyter notebook
 ```
