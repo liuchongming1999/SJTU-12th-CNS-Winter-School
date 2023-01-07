@@ -23,7 +23,7 @@ conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia -y
 # install PIL for dealing with images (or using pip)
 conda install PIL
-# Activate the new environment
+# activate the new environment
 conda avtivate pytorch_for_winter_school
 # open a local jupyter notebook
 jupyter notebook
