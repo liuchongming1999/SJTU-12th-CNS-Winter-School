@@ -22,7 +22,7 @@ conda avtivate pytorch_for_winter_school
 # install basic packages for scientific computing
 conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
 # install pytorch for constructing artificial neural networks
-conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia -y
+conda install pytorch torchvision torchaudio -c pytorch -c nvidia -y
 # install PIL for dealing with images (or using pip)
 conda install PIL
 # open a local jupyter notebook
