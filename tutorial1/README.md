@@ -20,11 +20,9 @@ conda create -n pytorch_for_winter_school python=3.9
 # activate the new environment
 conda avtivate pytorch_for_winter_school
 # install basic packages for scientific computing
-conda install -y numpy matplotlib scipy scikit-learn jupyter ipython
+conda install -y numpy matplotlib scipy scikit-learn jupyter ipython pandas
 # install pytorch for constructing artificial neural networks
 conda install pytorch torchvision torchaudio -c pytorch -c nvidia -y
-# install PIL for dealing with images (or using pip)
-conda install PIL
 # open a local jupyter notebook
 jupyter notebook
 ```
