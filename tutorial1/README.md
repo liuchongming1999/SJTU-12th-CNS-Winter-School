@@ -18,7 +18,7 @@
 # new python environment for pytorch
 conda create -n pytorch_for_winter_school python=3.9
 # activate the new environment
-conda avtivate pytorch_for_winter_school
+conda activate pytorch_for_winter_school
 # install basic packages for scientific computing
 conda install -y numpy matplotlib scipy scikit-learn jupyter ipython pandas
 # install pytorch for constructing artificial neural networks
