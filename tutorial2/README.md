@@ -15,7 +15,7 @@
 
 ```bash
 # install basic packages for scientific computing
-conda install -y numpy matplotlib plotly
+conda install -y numpy matplotlib plotly seaborn
 # install neuron package for python
 pip3 install neuron
 ```
