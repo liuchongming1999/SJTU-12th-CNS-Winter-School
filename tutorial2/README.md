@@ -9,6 +9,9 @@
 4. **Simulation of real neuron from ModelDB**
 
 ---
+The 4 sections in the tutorial2 is the latest version. If you have any question about the tutorial or the NEURON software, please contact me at majingyang0119@sjtu.edu.cn.
+
+--
 
 ## Install dependencies
 
