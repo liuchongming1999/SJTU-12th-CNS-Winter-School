@@ -25,6 +25,7 @@ conda activate neuron_for_winter_school
 conda install -y numpy matplotlib plotly seaborn ipykernel
 # install neuron package for python
 pip3 install neuron
+Note that pip install method is only valid for MacOS and Linux, Windows users should refer to https://neuron.yale.edu/ftp/neuron/2019umn/neuron-quickstart.pdf
 # test the following code to see whether the environment is set well
 from neuron import h
 import numpy as np
